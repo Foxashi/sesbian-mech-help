@@ -14,5 +14,5 @@
 * "sesbian lex"
 * "sesbian"
 * "sesbian hi"
-* "sesbian :3'
+* "sesbian :3"
 * "sesbian achtung"
