@@ -9,7 +9,7 @@
 * sesbian
 * avatar
 * suggest_song (Suggest a song to add in the bot's database)
-* song_recommendation (The bot picks out a random song from the database)
+* random_song (The bot picks out a random song from the database)
 
 ### -> Trigger Sentences <-
 
