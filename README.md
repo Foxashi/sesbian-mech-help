@@ -8,6 +8,8 @@
 
 * sesbian
 * avatar
+* suggest_song (Suggest a song to add in the bot's database)
+* song_recommendation (The bot picks out a random song from the database)
 
 ### -> Trigger Sentences <-
 
@@ -16,4 +18,4 @@
 * "sesbian hi"
 * "sesbian :3"
 * "sesbian achtung"
-* "sesbian song"
+* "sesbian song" // Outdated version of the song suggesting service (Recommended for those who are in countries where Spotify is banned, again I repeat this is outdated)
