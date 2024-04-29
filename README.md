@@ -19,3 +19,7 @@
 * "sesbian :3"
 * "sesbian achtung"
 * "sesbian song" // Outdated version of the song suggesting service (Recommended for those who are in countries where Spotify is banned, again I repeat this is outdated)
+
+### -> Trigger Words <-
+
+* freaky (you'll see)
