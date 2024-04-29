@@ -10,6 +10,7 @@
 * avatar
 * suggest_song (Suggest a song to add in the bot's database)
 * random_song (The bot picks out a random song from the database)
+* public_playlist
 
 ### -> Trigger Sentences <-
 
