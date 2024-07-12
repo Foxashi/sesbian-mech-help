@@ -12,6 +12,7 @@
 * random_song (The bot picks out a random song from the database)
 * public_playlist
 * whoppa
+* achtung
 
 ### -> Trigger Sentences <-
 
